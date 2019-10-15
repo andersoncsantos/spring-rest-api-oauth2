@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: central-erros
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: anderson
+Implementation-Vendor-Id: br.com.codenation
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/central-erros
+Created-By: Maven Integration for Eclipse
+
